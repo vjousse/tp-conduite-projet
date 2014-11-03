@@ -70,3 +70,8 @@ Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 * Simon Roger.
 * Simon Roger.
 * Virgil Deschamps.
+* Tony Merrien.
+* Rémi Plantade.
+* A Louis Chevalier.
+* Pancher Pierre-louis.
+* A Thibault Gauran
