@@ -50,7 +50,7 @@
 
 ## Bitbucket
 
-* Créez un compte sur Bitbucket.
+* Créez un compte sur [Bitbucket](https://bitbucket.org/).
 
 * Essayez de reproduire les étapes vues pour Github.
 
