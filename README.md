@@ -50,7 +50,11 @@
 
 ## Bitbucket
 
-* Créez-vous un compte sur Bitbucket
+* Créez un compte sur Bitbucket.
+
+* Essayez de reproduire les étapes vues pour Github.
+
+* Pouvez-vous pousser votre code qui est actuellement sur Github directement sur Bitbucket ? Si oui, comment ?
 
 ## Remerciements
 
