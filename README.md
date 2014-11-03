@@ -59,3 +59,7 @@
 ## Remerciements
 
 Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
+
+* A Louis Chevalier, mort pour la France 03/11/2014.
+
+
