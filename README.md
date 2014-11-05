@@ -82,6 +82,7 @@ Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 * Pagis Etienne,
 * FOUQUET Stevy,
 * Grude Victorien,
+* Yassine M'chaar,
 * Toulmonde Joris,
 * Godefroy Thieulart,
 * Basset Hector,
@@ -91,3 +92,4 @@ Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 * Dezere Florian,
 * Lemée Arthur,
 * Dezere Florian.
+-
