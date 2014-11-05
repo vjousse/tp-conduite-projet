@@ -80,6 +80,7 @@ Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 * Basset Hector,
 * Fouquet Stevy,
 * Pagis Etienne,
+* FOUQUET Stevy,
 * Grude Victorien,
 * Toulmonde Joris,
 * Godefroy Thieulart,
