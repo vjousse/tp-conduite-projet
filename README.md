@@ -79,4 +79,5 @@ Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 * A Thibault Gauran,
 * Basset Hector,
 * Fouquet Stevy,
-* Pagis Etienne.
+* Pagis Etienne,
+* Grude Victorien.
