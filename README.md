@@ -79,6 +79,9 @@ Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 * A Thibault Gauran,
 * Toulmonde Joris,
 * Godefroy Thieulart,
-* Basset Hector.
-* Dezere Florian.
+* Basset Hector,
+* Guedouard Wajdi,
+* Godefroy Thieulart,
+* Basset Hector,
+* Dezere Florian,
 * Lemée Arthur.
