@@ -54,7 +54,7 @@
 
 * Créez un compte sur [Bitbucket](https://bitbucket.org/).
 
-* Essayez de reproduire les étapes vues pour Github. Le dépôt sur Bitbucket se situe ici : [http://bitbucket.org/vjousse](http://bitbucket.org/vjousse).
+* Essayez de reproduire les étapes vues pour Github. Le dépôt sur Bitbucket se situe ici : [https://bitbucket.org/vjousse/tp-conduite-projet-2014](https://bitbucket.org/vjousse/tp-conduite-projet-2014).
 
 * Pouvez-vous pousser votre code qui est actuellement sur Github directement sur Bitbucket ? Si oui, comment ?
 
