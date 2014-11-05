@@ -78,3 +78,4 @@ Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 * Pancher Pierre-louis,
 * A Thibault Gauran,
 * FOUQUET Stevy.
+* Grude Victorien
