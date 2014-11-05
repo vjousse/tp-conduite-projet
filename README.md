@@ -78,6 +78,7 @@ Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 * Pancher Pierre-louis,
 * A Thibault Gauran,
 * Toulmonde Joris,
-* Godefroy Thieulart.
+* Godefroy Thieulart,
 * Basset Hector.
 * Dezere Florian.
+* Lemée Arthur.
