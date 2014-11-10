@@ -92,5 +92,6 @@ Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 * Dezere Florian,
 * Lemée Arthur,
 * Dezere Florian,
-* Pedron Pierrick.
+* Pedron Pierrick,
+* Boisson Léo.
 
