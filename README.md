@@ -9,12 +9,12 @@ Nous allons voir ici comment contribuer à un projet que vous n'avez pas créé.
 * Dupliquez (*fork*) le projet tp-conduite-projet-2014 dans votre espace (à vous de trouver le bouton sur la page).
 * Récupérez sur votre disque dur les sources de votre projet que vous venez de dupliquer dans votre espace.
 
-        git clone https://github.com/votrecompte/tp-conduite-projet-2014.git
+        git clone https://github.com/votrecompte/tp-conduite-projet.git
 
 * Indiquez le dépôt Git officiel (le mien) :
 
-        cd tp-conduite-projet-2014
-        git remote add official https://github.com/vjousse/tp-conduite-projet-2014.git
+        cd tp-conduite-projet
+        git remote add official https://github.com/vjousse/tp-conduite-projet.git
 
 * Combien de *remote* (dépôt Git distant) avez-vous ? Comment faire pour le savoir ?
 
