@@ -6,7 +6,7 @@ Nous allons voir ici comment contribuer à un projet que vous n'avez pas créé.
 
 * [Configurez Git pour GitHub](http://help.github.com/set-up-git-redirect/)
 * [Assurez-vous d'avoir vos clés ssh de configurées](https://help.github.com/articles/generating-ssh-keys/)
-* Dupliquez (*fork*) le projet tp-conduite-projet-2014 dans votre espace (à vous de trouver le bouton sur la page).
+* Dupliquez (*fork*) le projet tp-conduite-projet dans votre espace (à vous de trouver le bouton sur la page).
 * Récupérez sur votre disque dur les sources de votre projet que vous venez de dupliquer dans votre espace.
 
         git clone https://github.com/votrecompte/tp-conduite-projet.git
