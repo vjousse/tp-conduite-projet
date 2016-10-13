@@ -49,13 +49,13 @@ Nous allons voir ici comment contribuer à un projet que vous n'avez pas créé.
 
 * Dans GitHub faites une demande d'intégration (pull request).
 
-## Bitbucket
+## Gitlab
 
-* Créez un compte sur [Bitbucket](https://bitbucket.org/).
+* Créez un compte sur [Gitlab](https://gitlab.com/).
 
-* Essayez de reproduire les étapes vues pour Github. Le dépôt sur Bitbucket se situe ici : [https://bitbucket.org/vjousse/tp-conduite-projet-2014](https://bitbucket.org/vjousse/tp-conduite-projet-2014).
+* Essayez de reproduire les étapes vues pour Github.
 
-* Pouvez-vous pousser votre code qui est actuellement sur Github directement sur Bitbucket ? Si oui, comment ?
+* Pouvez-vous pousser votre code qui est actuellement sur Github directement sur Gitlab ? Si oui, comment ?
 
 ## Remerciements
 
