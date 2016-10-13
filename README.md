@@ -1,5 +1,16 @@
 # Tp Git
 
+## Prise en main
+
+Refaites les commandes vues en cours.
+
+* Créez un dépôt en local
+* Ajoutez des fichiers à votre dépôt
+* Envoyez vos fichiers sur un dépôt distant créé sur Github
+* Modifiez supprimez des fichiers et faites de nouvelles versions
+
+Vous pouvez vous aider de http://rogerdudler.github.io/git-guide/index.fr.html par exemple (ou sinon, Google est votre ami).
+
 ## Github et pull request
 
 Nous allons voir ici comment contribuer à un projet que vous n'avez pas créé.
