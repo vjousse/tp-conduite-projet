@@ -1,5 +1,7 @@
 # Tp Git
 
+Le fichier a été modifié
+
 ## Prise en main
 
 Refaites les commandes vues en cours.
