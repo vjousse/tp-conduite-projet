@@ -1,4 +1,4 @@
-# Tp Git
+# TP Git
 
 ## Prise en main
 
