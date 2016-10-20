@@ -1,6 +1,7 @@
 # Tp Git
 
 Le fichier a été modifié
+Arthur Prod'homme - Brocherieux Thibault
 
 ## Prise en main
 
