@@ -1,5 +1,8 @@
 # TP Git
 
+Le fichier a été modifié
+Arthur Prod'homme - Brocherieux Thibault
+
 ## Prise en main
 
 Refaites les commandes vues en cours.
@@ -77,3 +80,4 @@ Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 
 * Titouan Teyssier.
 * Valentin Pelloin.
+**Arthur Prod'Homme Thibault Brocherieux
