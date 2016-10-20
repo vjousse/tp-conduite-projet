@@ -1,4 +1,4 @@
-# Tp Git
+# TP Git
 
 ## Prise en main
 
@@ -72,6 +72,8 @@ Nous allons voir ici comment contribuer à un projet que vous n'avez pas créé.
 
 Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 
+
 ## Liste des forker:
 
 * Titouan Teyssier.
+* Valentin Pelloin.
